@@ -1,5 +1,5 @@
 # bit02html
-##Descripcion
-Tarea Nro. 3
-##Autor
-[Vanessa]
+## Descripcion
+Tarea nro. 3
+### Autor
+[Vanessa](https://www.linkedin.com/in/vanessa-robles-silva-b6732171/)
